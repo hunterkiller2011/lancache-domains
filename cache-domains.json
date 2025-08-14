@@ -136,6 +136,26 @@
       "name": "ubuntu",
       "description": "CDN for ubuntu",
       "domain_files": ["ubuntu.txt"]
+    },
+    {
+      "name": "rocky",
+      "description": "CDN for rocky",
+      "domain_files": ["rocky.txt"]
+    },
+    {
+      "name": "xcp-ng",
+      "description": "CDN for xcp-ng",
+      "domain_files": ["xcp-ng.txt"]
+    },
+    {
+      "name": "fedora",
+      "description": "CDN for fedora",
+      "domain_files": ["fedora.txt"]
+    },
+    {
+      "name": "centos",
+      "description": "CDN for centos",
+      "domain_files": ["centos.txt"]
     }
   ]
 }
